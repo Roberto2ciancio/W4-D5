@@ -1,0 +1,30 @@
+.padre {
+    display: flex;
+    justify-content: center;
+align-items: center;
+
+
+;
+margin: auto;
+margin-top: 200px;
+flex-wrap: wrap;
+width: 700px;;
+
+
+
+}
+.padre div {
+    border: 1px;
+    border-color: black;
+    box-shadow: 1px 0px 10px 1px rgb(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+
+}
+
+.box1 { 
+    background-color: rgb(191, 206, 161);
+    text-align: center;
+    margin-top: 20px;
+}
